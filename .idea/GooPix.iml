@@ -8,6 +8,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: com.formdev:flatlaf:3.5.3" level="project" />
     <orderEntry type="library" name="Maven: com.google.photos.library:google-photos-library-client:1.7.3" level="project" />
     <orderEntry type="library" name="Maven: com.google.api:gax-grpc:2.23.3" level="project" />
     <orderEntry type="library" name="Maven: com.google.auth:google-auth-library-credentials:1.16.0" level="project" />
