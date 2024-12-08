@@ -22,13 +22,33 @@
     <properties>
         <maven.compiler.target>1.8</maven.compiler.target>
         <maven.compiler.source>1.8</maven.compiler.source>
+        <flatlaf-swingx.version>3.5.3</flatlaf-swingx.version>
     </properties>
     <dependencies>
         <!-- https://mvnrepository.com/artifact/com.formdev/flatlaf -->
         <dependency>
             <groupId>com.formdev</groupId>
             <artifactId>flatlaf</artifactId>
-            <version>3.5.3</version>
+            <version>${flatlaf-swingx.version}</version>
+            <scope>runtime</scope>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/com.formdev/flatlaf-extras -->
+        <dependency>
+            <groupId>com.formdev</groupId>
+            <artifactId>flatlaf-extras</artifactId>
+            <version>${flatlaf-swingx.version}</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/com.formdev/flatlaf-swingx -->
+        <dependency>
+            <groupId>com.formdev</groupId>
+            <artifactId>flatlaf-swingx</artifactId>
+            <version>${flatlaf-swingx.version}</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/com.formdev/flatlaf-intellij-themes -->
+        <dependency>
+            <groupId>com.formdev</groupId>
+            <artifactId>flatlaf-intellij-themes</artifactId>
+            <version>${flatlaf-swingx.version}</version>
             <scope>runtime</scope>
         </dependency>
         <!-- https://mvnrepository.com/artifact/com.google.photos.library/google-photos-library-client -->
