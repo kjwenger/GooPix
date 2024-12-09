@@ -9,8 +9,5 @@
         <module name="GooPix" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="GooPix" target="1.8" />
-    </bytecodeTargetLevel>
   </component>
 </project>
