@@ -1,11 +1,8 @@
 package io.github.kjwenger;
 
-import com.formdev.flatlaf.FlatDarkLaf;
 import com.plealog.genericapp.api.EZApplicationBranding;
 import com.plealog.genericapp.api.EZEnvironment;
 import com.plealog.genericapp.api.EZGenericApplication;
-
-import javax.swing.*;
 
 public class GooPixUIStarter {
 

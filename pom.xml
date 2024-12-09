@@ -66,6 +66,12 @@
             <artifactId>flatlaf-intellij-themes</artifactId>
             <version>${flatlaf-swingx.version}</version>
         </dependency>
+        <!-- https://mvnrepository.com/artifact/com.jgoodies/jgoodies-common -->
+        <dependency>
+            <groupId>com.jgoodies</groupId>
+            <artifactId>jgoodies-common</artifactId>
+            <version>1.8.1</version>
+        </dependency>
         <!-- https://mvnrepository.com/artifact/com.google.photos.library/google-photos-library-client -->
         <dependency>
             <groupId>com.google.photos.library</groupId>
