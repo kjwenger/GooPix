@@ -1,4 +1,4 @@
-package io.github.kjwenger;
+package io.github.kjwenger.goopix.jgaf;
 
 import com.plealog.genericapp.api.EZUIStarterListener;
 
