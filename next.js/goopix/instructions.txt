@@ -1,0 +1,8 @@
+My Next.js app should have an About page.
+The app should use the Google Photos Library API to fetch photos.
+The app should have a Home page that displays the photos.
+The app should have a Photo page that displays a single photo.
+The app should have a Photos page that displays all photos.
+The app should have a Search page that allows users to search for photos.
+The app should have a Settings page that allows users to configure the app.
+The app should have a Login page that allows users to login to Google Photos.
